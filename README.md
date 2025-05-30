@@ -1,4 +1,4 @@
-# 👋 Hello, I’m **Shulabh Bhattarai**, my friends call me **Mr. SHUUU***
+# 👋 Hello, I’m **Shulabh Bhattarai**, my friends call me **SHUUU**
 
 🚀 **CS Undergrad @ DePauw ’26** (Data Science Minor)  
 🔬 **Data Sleuth & ML Tinkerer** — I turn raw numbers into “aha!” moments  

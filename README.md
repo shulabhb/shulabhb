@@ -1,11 +1,10 @@
-- 👋 Hi, I’m Shulabh Bhattarai
-- 👀 I’m interested in software developmenet and machine learning
-- 🌱 I’m currently learning in depth on supervised learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: email me @ sbhattarai_2026@depauw.edu
+# 👋 Hello, I’m **Shulabh Bhattarai**
 
-
-<!---
-shulabhb/shulabhb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **CS Undergrad @ DePauw ’26** (Data Science Minor)  
+🔬 **Data Sleuth & ML Tinkerer** — I turn raw numbers into “aha!” moments  
+📱 **App Artisan** — crafting StudyAI, Mind Matters & hybrid recommenders (peek at [shulabhb.com](https://www.shulabhb.com)!)  
+🧙‍♂️ **Code Mage** — weaving SwiftUI + FastAPI spells for seamless user experiences  
+📚 **Learning in Public** — author of hands-on tutorials on GitHub (hierarchical clustering, supervised learning deep dives, and more)  
+🤝 **Community Catalyst** — TA for Python/C++/Java · Treasurer & ML Instructor, DePauw Data Science Club  
+🎯 **Focus Areas**: supervised learning, clustering algorithms, full-stack pipelines, and intuitive UI/UX  
+✉️ **Spark a Conversation**: sbhattarai_2026@depauw.edu | ☎ 925-877-8163  

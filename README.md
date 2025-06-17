@@ -7,4 +7,4 @@
 📚 **Learning in Public** — author of hands-on tutorials on GitHub (hierarchical clustering, supervised learning deep dives, and more)  
 🤝 **Community Catalyst** — TA for Python/C++/Java · Treasurer & ML Instructor, DePauw Data Science Club  
 🎯 **Focus Areas**: supervised learning, clustering algorithms, full-stack pipelines, and intuitive UI/UX  
-✉️ **Spark a Conversation**: sbhattarai_2026@depauw.edu | ☎ 925-877-8163  
+✉️ **Spark a Conversation**: sbhattarai_2026@depauw.edu | shulabhb@gmail.com 

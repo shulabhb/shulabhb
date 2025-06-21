@@ -16,6 +16,5 @@ Outside of development, I serve as a TA for introductory CS courses (Python, Jav
 SwiftUI · Python · Java · C++ · FastAPI · PyTorch · Hugging Face · Firebase · REST APIs · PostgreSQL · Docker · Scikit-learn · Core Data · NLP · Clustering · Recommender Systems
 
 **Website:** [www.shulabhb.com](https://www.shulabhb.com)  
-**Email:** sbhattarai_2026@depauw.edu | shulabhb@gmail.com  
-**GitHub:** [github.com/shulabhb](https://github.com/shulabhb)  
+**Email:** sbhattarai_2026@depauw.edu | shulabhb@gmail.com   
 **LinkedIn:** [linkedin.com/in/shulabhb](https://linkedin.com/in/shulabhb)

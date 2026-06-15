@@ -1,20 +1,11 @@
 # Shulabh Bhattarai
 
-Computer Science graduate from DePauw University (Class of 2026). My work focuses on intelligent systems, full-stack engineering, and applied machine learning. I aim to build software that is technically rigorous, scalable, and impactful in the real world.
+Software engineer focused on backend systems, AI products, and agent infrastructure.
 
-## About Me
+Currently building **Fleetrac**, a vendor-neutral governance platform for AI agents that turns runtime telemetry into incidents, evidence, and approval-gated remediation.
 
-- Exploring AI/Agentic Governance and building Fleetrac for observability-driven AI/Agentic Fleet Governance in runtime
-- Strong foundation in data structures, algorithms, and software design
-- Applied experience with NLP, clustering algorithms, and recommendation systems
-- Full-stack project development using Python, FastAPI, PostgreSQL, and modern JavaScript frameworks
-- iOS app development using SwiftUI and Core Data with real-time sync via Firebase
-- Teaching Assistant for Python, Java, and C++ courses at DePauw University
-- Treasurer & ML Workshop Leader – DePauw Data Science Club
+Previously worked on **MindMitra**, where I led backend and AI platform work for a shipped cognitive-wellness app.
 
-## Links
+**Stack:** Python, TypeScript, FastAPI, Node.js, React, Next.js, PostgreSQL, MongoDB, Docker, OpenTelemetry
 
-[Portfolio Website](https://www.shulabhb.com)  
-Email: sbhattarai_2026@depauw.edu | shulabhb@gmail.com  
-[LinkedIn](https://linkedin.com/in/shulabhb)  
-
+[Portfolio](https://www.shulabhb.com) · [LinkedIn](https://linkedin.com/in/shulabhb) · [Email](mailto:shulabhb@gmail.com)

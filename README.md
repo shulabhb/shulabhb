@@ -1,6 +1,6 @@
 # Shulabh Bhattarai
 
-Software engineer focused on backend systems, AI products, and agent infrastructure.
+AI engineer focused on backend systems, AI products, and agent infrastructure.
 
 Currently building **Fleetrac**, a vendor-neutral governance platform for AI agents that turns runtime telemetry into incidents, evidence, and approval-gated remediation.
 
